@@ -1,0 +1,14 @@
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\09Operadores_logicos\bin\Debug\net10.0\09Operadores_logicos.exe
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\09Operadores_logicos\bin\Debug\net10.0\09Operadores_logicos.deps.json
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\09Operadores_logicos\bin\Debug\net10.0\09Operadores_logicos.runtimeconfig.json
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\09Operadores_logicos\bin\Debug\net10.0\09Operadores_logicos.dll
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\09Operadores_logicos\bin\Debug\net10.0\09Operadores_logicos.pdb
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\09Operadores_logicos\obj\Debug\net10.0\09Operadores_logicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\09Operadores_logicos\obj\Debug\net10.0\09Operadores_logicos.AssemblyInfoInputs.cache
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\09Operadores_logicos\obj\Debug\net10.0\09Operadores_logicos.AssemblyInfo.cs
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\09Operadores_logicos\obj\Debug\net10.0\09Operadores_logicos.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\09Operadores_logicos\obj\Debug\net10.0\09Operadores_logicos.dll
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\09Operadores_logicos\obj\Debug\net10.0\refint\09Operadores_logicos.dll
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\09Operadores_logicos\obj\Debug\net10.0\09Operadores_logicos.pdb
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\09Operadores_logicos\obj\Debug\net10.0\09Operadores_logicos.genruntimeconfig.cache
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\09Operadores_logicos\obj\Debug\net10.0\ref\09Operadores_logicos.dll

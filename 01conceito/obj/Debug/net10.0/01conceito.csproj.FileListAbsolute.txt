@@ -1,0 +1,14 @@
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\01conceito\bin\Debug\net10.0\01conceito.exe
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\01conceito\bin\Debug\net10.0\01conceito.deps.json
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\01conceito\bin\Debug\net10.0\01conceito.runtimeconfig.json
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\01conceito\bin\Debug\net10.0\01conceito.dll
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\01conceito\bin\Debug\net10.0\01conceito.pdb
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\01conceito\obj\Debug\net10.0\01conceito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\01conceito\obj\Debug\net10.0\01conceito.AssemblyInfoInputs.cache
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\01conceito\obj\Debug\net10.0\01conceito.AssemblyInfo.cs
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\01conceito\obj\Debug\net10.0\01conceito.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\01conceito\obj\Debug\net10.0\01conceito.dll
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\01conceito\obj\Debug\net10.0\refint\01conceito.dll
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\01conceito\obj\Debug\net10.0\01conceito.pdb
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\01conceito\obj\Debug\net10.0\01conceito.genruntimeconfig.cache
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\01conceito\obj\Debug\net10.0\ref\01conceito.dll

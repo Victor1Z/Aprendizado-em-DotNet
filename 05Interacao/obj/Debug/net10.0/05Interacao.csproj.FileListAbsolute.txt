@@ -1,0 +1,14 @@
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\05Interacao\bin\Debug\net10.0\05Interacao.exe
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\05Interacao\bin\Debug\net10.0\05Interacao.deps.json
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\05Interacao\bin\Debug\net10.0\05Interacao.runtimeconfig.json
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\05Interacao\bin\Debug\net10.0\05Interacao.dll
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\05Interacao\bin\Debug\net10.0\05Interacao.pdb
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\05Interacao\obj\Debug\net10.0\05Interacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\05Interacao\obj\Debug\net10.0\05Interacao.AssemblyInfoInputs.cache
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\05Interacao\obj\Debug\net10.0\05Interacao.AssemblyInfo.cs
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\05Interacao\obj\Debug\net10.0\05Interacao.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\05Interacao\obj\Debug\net10.0\05Interacao.dll
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\05Interacao\obj\Debug\net10.0\refint\05Interacao.dll
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\05Interacao\obj\Debug\net10.0\05Interacao.pdb
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\05Interacao\obj\Debug\net10.0\05Interacao.genruntimeconfig.cache
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\05Interacao\obj\Debug\net10.0\ref\05Interacao.dll

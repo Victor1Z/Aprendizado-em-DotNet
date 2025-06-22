@@ -1,0 +1,15 @@
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\11condicional_encadeada\bin\Debug\net10.0\11condicional_encadeada.exe
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\11condicional_encadeada\bin\Debug\net10.0\11condicional_encadeada.deps.json
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\11condicional_encadeada\bin\Debug\net10.0\11condicional_encadeada.runtimeconfig.json
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\11condicional_encadeada\bin\Debug\net10.0\11condicional_encadeada.dll
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\11condicional_encadeada\bin\Debug\net10.0\11condicional_encadeada.pdb
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\11condicional_encadeada\obj\Debug\net10.0\11condicional_encadeada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\11condicional_encadeada\obj\Debug\net10.0\11condicional_encadeada.AssemblyInfoInputs.cache
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\11condicional_encadeada\obj\Debug\net10.0\11condicional_encadeada.AssemblyInfo.cs
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\11condicional_encadeada\obj\Debug\net10.0\11condicional_encadeada.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\11condicional_encadeada\obj\Debug\net10.0\11condicional_encadeada.sourcelink.json
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\11condicional_encadeada\obj\Debug\net10.0\11condicional_encadeada.dll
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\11condicional_encadeada\obj\Debug\net10.0\refint\11condicional_encadeada.dll
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\11condicional_encadeada\obj\Debug\net10.0\11condicional_encadeada.pdb
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\11condicional_encadeada\obj\Debug\net10.0\11condicional_encadeada.genruntimeconfig.cache
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\11condicional_encadeada\obj\Debug\net10.0\ref\11condicional_encadeada.dll

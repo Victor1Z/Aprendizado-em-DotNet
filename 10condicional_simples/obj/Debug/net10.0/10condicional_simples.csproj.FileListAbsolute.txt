@@ -1,0 +1,15 @@
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\10condicional_simples\bin\Debug\net10.0\10condicional_simples.exe
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\10condicional_simples\bin\Debug\net10.0\10condicional_simples.deps.json
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\10condicional_simples\bin\Debug\net10.0\10condicional_simples.runtimeconfig.json
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\10condicional_simples\bin\Debug\net10.0\10condicional_simples.dll
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\10condicional_simples\bin\Debug\net10.0\10condicional_simples.pdb
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\10condicional_simples\obj\Debug\net10.0\10condicional_simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\10condicional_simples\obj\Debug\net10.0\10condicional_simples.AssemblyInfoInputs.cache
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\10condicional_simples\obj\Debug\net10.0\10condicional_simples.AssemblyInfo.cs
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\10condicional_simples\obj\Debug\net10.0\10condicional_simples.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\10condicional_simples\obj\Debug\net10.0\10condicional_simples.sourcelink.json
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\10condicional_simples\obj\Debug\net10.0\10condicional_simples.dll
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\10condicional_simples\obj\Debug\net10.0\refint\10condicional_simples.dll
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\10condicional_simples\obj\Debug\net10.0\10condicional_simples.pdb
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\10condicional_simples\obj\Debug\net10.0\10condicional_simples.genruntimeconfig.cache
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\10condicional_simples\obj\Debug\net10.0\ref\10condicional_simples.dll

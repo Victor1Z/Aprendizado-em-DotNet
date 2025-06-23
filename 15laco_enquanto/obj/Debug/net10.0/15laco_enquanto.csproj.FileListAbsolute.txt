@@ -1,0 +1,15 @@
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\15laco_enquanto\obj\Debug\net10.0\15laco_enquanto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\15laco_enquanto\obj\Debug\net10.0\15laco_enquanto.AssemblyInfoInputs.cache
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\15laco_enquanto\obj\Debug\net10.0\15laco_enquanto.AssemblyInfo.cs
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\15laco_enquanto\obj\Debug\net10.0\15laco_enquanto.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\15laco_enquanto\obj\Debug\net10.0\15laco_enquanto.sourcelink.json
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\15laco_enquanto\bin\Debug\net10.0\15laco_enquanto.exe
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\15laco_enquanto\bin\Debug\net10.0\15laco_enquanto.deps.json
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\15laco_enquanto\bin\Debug\net10.0\15laco_enquanto.runtimeconfig.json
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\15laco_enquanto\bin\Debug\net10.0\15laco_enquanto.dll
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\15laco_enquanto\bin\Debug\net10.0\15laco_enquanto.pdb
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\15laco_enquanto\obj\Debug\net10.0\15laco_enquanto.dll
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\15laco_enquanto\obj\Debug\net10.0\refint\15laco_enquanto.dll
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\15laco_enquanto\obj\Debug\net10.0\15laco_enquanto.pdb
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\15laco_enquanto\obj\Debug\net10.0\15laco_enquanto.genruntimeconfig.cache
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\15laco_enquanto\obj\Debug\net10.0\ref\15laco_enquanto.dll

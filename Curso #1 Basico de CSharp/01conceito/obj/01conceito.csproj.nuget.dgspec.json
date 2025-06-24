@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Victo\\Documents\\Projetos\\Lógica e Algoritmos com C#\\01conceito\\01conceito.csproj": {}
+    "C:\\Users\\Victo\\Documents\\Projetos\\Lógica e Algoritmos com C#\\Curso #1 Basico de CSharp\\01conceito\\01conceito.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Victo\\Documents\\Projetos\\Lógica e Algoritmos com C#\\01conceito\\01conceito.csproj": {
+    "C:\\Users\\Victo\\Documents\\Projetos\\Lógica e Algoritmos com C#\\Curso #1 Basico de CSharp\\01conceito\\01conceito.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Victo\\Documents\\Projetos\\Lógica e Algoritmos com C#\\01conceito\\01conceito.csproj",
+        "projectUniqueName": "C:\\Users\\Victo\\Documents\\Projetos\\Lógica e Algoritmos com C#\\Curso #1 Basico de CSharp\\01conceito\\01conceito.csproj",
         "projectName": "01conceito",
-        "projectPath": "C:\\Users\\Victo\\Documents\\Projetos\\Lógica e Algoritmos com C#\\01conceito\\01conceito.csproj",
+        "projectPath": "C:\\Users\\Victo\\Documents\\Projetos\\Lógica e Algoritmos com C#\\Curso #1 Basico de CSharp\\01conceito\\01conceito.csproj",
         "packagesPath": "C:\\Users\\Victo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Victo\\Documents\\Projetos\\Lógica e Algoritmos com C#\\01conceito\\obj\\",
+        "outputPath": "C:\\Users\\Victo\\Documents\\Projetos\\Lógica e Algoritmos com C#\\Curso #1 Basico de CSharp\\01conceito\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Victo\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,0 +1,15 @@
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\17laco_para\obj\Debug\net10.0\17laco_para.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\17laco_para\obj\Debug\net10.0\17laco_para.AssemblyInfoInputs.cache
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\17laco_para\obj\Debug\net10.0\17laco_para.AssemblyInfo.cs
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\17laco_para\obj\Debug\net10.0\17laco_para.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\17laco_para\obj\Debug\net10.0\17laco_para.sourcelink.json
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\17laco_para\bin\Debug\net10.0\17laco_para.exe
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\17laco_para\bin\Debug\net10.0\17laco_para.deps.json
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\17laco_para\bin\Debug\net10.0\17laco_para.runtimeconfig.json
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\17laco_para\bin\Debug\net10.0\17laco_para.dll
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\17laco_para\bin\Debug\net10.0\17laco_para.pdb
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\17laco_para\obj\Debug\net10.0\17laco_para.dll
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\17laco_para\obj\Debug\net10.0\refint\17laco_para.dll
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\17laco_para\obj\Debug\net10.0\17laco_para.pdb
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\17laco_para\obj\Debug\net10.0\17laco_para.genruntimeconfig.cache
+C:\Users\Victo\Documents\Projetos\Lógica e Algoritmos com C#\17laco_para\obj\Debug\net10.0\ref\17laco_para.dll
